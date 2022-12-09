@@ -1,4 +1,4 @@
-import Layout from '@omponents/Layout';
+import Layout from '@/components/Layout';
 
 export default function AddEventPage() {
   return (
